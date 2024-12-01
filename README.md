@@ -38,7 +38,6 @@ To develop a feature-rich, collaborative text editor that demonstrates my abilit
 
 ### **3. Document Management**
 
-- Create, delete, share, and list documents with sorting and search functionality.
 - Share documents with permissions (view/edit) via email or link.
 
 ### **4. Comments and Notifications**
