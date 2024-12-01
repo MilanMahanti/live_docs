@@ -38,7 +38,6 @@ To develop a feature-rich, collaborative text editor that demonstrates my abilit
 
 ### **3. Document Management**
 
-- Create, delete, share, and list documents with sorting and search functionality.
 - Share documents with permissions (view/edit) via email or link.
 
 ### **4. Comments and Notifications**
@@ -102,6 +101,7 @@ To develop a feature-rich, collaborative text editor that demonstrates my abilit
 - Add version history for collaborative documents.
 - Implement offline editing with auto-sync capabilities.
 - Introduce a premium subscription for advanced features like AI-powered suggestions.
+- Searching and sorting for documents
 
 ---
 
