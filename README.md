@@ -101,6 +101,7 @@ To develop a feature-rich, collaborative text editor that demonstrates my abilit
 - Add version history for collaborative documents.
 - Implement offline editing with auto-sync capabilities.
 - Introduce a premium subscription for advanced features like AI-powered suggestions.
+- Searching and sorting for documents
 
 ---
 
