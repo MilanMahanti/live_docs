@@ -90,10 +90,8 @@ To develop a feature-rich, collaborative text editor that demonstrates my abilit
 
 ## 📌 Links
 
-- **Live Demo**: [View Live Project](https://your-demo-link.com)
-- **Source Code**: [GitHub Repository](https://github.com/your-repo-link)
-- **Documentation**: [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
-
+- **Live Demo**: [View Live Project](https://live-docs-gvsy.vercel.app/)
+- **Source Code**: [GitHub Repository](https://github.com/MilanMahanti/live_docs/)
 ---
 
 ## 📈 Future Enhancements
